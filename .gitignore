@@ -1,0 +1,5 @@
+#SQL server file
+*.sdf
+
+#Solution User Option file
+*.suo
